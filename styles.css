@@ -38,6 +38,9 @@
     padding: 20px 15px 15px 15px;
     border-radius:20px;
 }
+#main-content p {
+    margin-left:10px;
+}
 #outer-list {
     margin-left: 15px;
 }
@@ -58,7 +61,7 @@ a{
 }
 #main-content ul{
     margin-top:10px;
-    margin-left:10px;
+    margin-left:25px;
 }
 #footer{
     color:#aabfd6;
@@ -66,3 +69,4 @@ a{
     border-radius:10px;
     padding:17px;
 }
+/* git not updating */
