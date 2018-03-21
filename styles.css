@@ -17,6 +17,11 @@
     margin: 0 auto;
     border-radius: 10px;
 }
+#side-nav, #main-content {
+    display:inline-block;
+    vertical-align:top;
+    margin-top:20px;
+}
 #side-nav {
     background-color:#2a7d8c;
     width: 20%;
@@ -28,8 +33,10 @@
     background-color:#0e1822;
     width: 70%;
 }
-#side-nav, #main-content {
-    display:inline-block;
-    vertical-align:top;
-    margin-top:20px;
+
+#inner-list {
+    margin-left: 30px;
+}
+.remove-bullet {
+    list-style-type: none;
 }
