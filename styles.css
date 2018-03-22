@@ -34,9 +34,10 @@
     padding: 15px;
 }
 #main-content {
-    margin-left:25px;
+    font-size:95%;
+    margin-left:15px;
     background-color:#0e1822;
-    width: 70%;
+    width: 71%;
     padding: 20px 15px 15px 15px;
     border-radius:20px;
     margin-bottom:15px;
